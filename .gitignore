@@ -1,3 +1,4 @@
-data.prep.py
-data.prep.pyc
+data_prep.py
+data_prep.pyc
 data.json
+.ipynb_checkpoints/*
